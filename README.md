@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there 👋, I'm Whitney!
+I'm currently learning:
+  - Touchtyping, so that I won't lose much time looking at my keyboard!
+  - The basics of HTML, CSS and JavaScript.
+
+##I'm currrently working on:
+  - Building my own Portfolio website
+    
 
 <!--
 **WhitneyWassenaar/WhitneyWassenaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
