@@ -7,7 +7,7 @@
   - Working on small projects to learn the basics. <br>After a while, I'm going to apply everything I've learned into a big project "My portfolio".
 
 ### You can also find me here:
-  - <a href="https://codepen.io/Wassenaar">CodePen</a>
+  - <a href="https://codepen.io/Wassenaar">Visit my CodePen to view all my projects</a>
     
 
 <!--
