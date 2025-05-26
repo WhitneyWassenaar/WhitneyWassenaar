@@ -4,7 +4,10 @@
   - The basics of HTML, CSS and JavaScript.
 
 ### I'm currrently working on:
-  - Working on small projects to learn the basics. <br>After a while, I'm going to apply everything I've learned into a big project "My portfolio". 
+  - Working on small projects to learn the basics. <br>After a while, I'm going to apply everything I've learned into a big project "My portfolio".
+
+### You can also find me here:
+  - <a href="https://codepen.io/Wassenaar">CodePen</a>
     
 
 <!--
