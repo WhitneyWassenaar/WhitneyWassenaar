@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Whitney!
 ### I'm currently learning:
-  - Touchtyping, so that I won't lose much time looking at my keyboard!
+  - Touch typing, so I don’t waste time looking at the keyboard
   - The basics of HTML, CSS and JavaScript.
 
 ### I'm currrently working on:
