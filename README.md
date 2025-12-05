@@ -1,12 +1,10 @@
 ## Hi there 👋, my name is Whitney Wassenaar!
-<a href="https://www.linkedin.com/in/whitney-wassenaar-67aba1283/">LinkedIn</a> | <a href="https://codepen.io/Wassenaar">CodePen</a>
+<a href="https://www.linkedin.com/in/whitney-wassenaar-67aba1283/">LinkedIn</a> | <a href="https://codepen.io/Wassenaar">CodePen</a><br>
+
+
 ### I'm currrently working on:
   - Learning the basics of Python! 
   - Working on small projects to learn the basics. <br>After a while, I'm going to apply everything I've learned into a big project "My portfolio".
-
-### You can also find me here:
-  - <a href="https://codepen.io/Wassenaar">Visit my CodePen to view all my projects</a>
-    
 
 <!--
 **WhitneyWassenaar/WhitneyWassenaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
