@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Whitney!
+## Hi there 👋, my name is Whitney Wassenaar!
 ### I'm currently learning:
   - Touch typing, so I don’t waste time looking at the keyboard
   - The basics of HTML, CSS and JavaScript.
