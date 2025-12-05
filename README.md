@@ -1,8 +1,5 @@
 ## Hi there 👋, my name is Whitney Wassenaar!
-### I'm currently learning:
-  - Touch typing, so I don’t waste time looking at the keyboard
-  - The basics of HTML, CSS and JavaScript.
-
+<a href="https://www.linkedin.com/in/whitney-wassenaar-67aba1283/">LinkedIn</a> | <a href="https://codepen.io/Wassenaar">CodePen</a>
 ### I'm currrently working on:
   - Learning the basics of Python! 
   - Working on small projects to learn the basics. <br>After a while, I'm going to apply everything I've learned into a big project "My portfolio".
