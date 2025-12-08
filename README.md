@@ -4,7 +4,7 @@
 
 ### I'm currrently working on:
   - Learning the basics of Python! 
-  - Working on small projects to learn the basics. <br>After a while, I'm going to apply everything I've learned into a big project "My portfolio".
+
 
 <!--
 **WhitneyWassenaar/WhitneyWassenaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
