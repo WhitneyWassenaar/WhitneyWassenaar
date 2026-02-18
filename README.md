@@ -3,7 +3,7 @@
 
 
 ### I'm currrently working on:
-  - Learning the basics of Python! 
+  - Learning the basics of HTML & CSS
 
 
 <!--
