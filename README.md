@@ -3,7 +3,7 @@
 
 
 ### I'm currrently working on:
-  - Learning the basics of HTML & CSS
+  - Learning the basics of HTML, CSS and JavaScript
 
 
 <!--
